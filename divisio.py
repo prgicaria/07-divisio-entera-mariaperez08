@@ -4,4 +4,4 @@ quocient= divident // divisor
 residu = divident - quocient * divisor
 print(f"Divisió: {divident}/{divisor}")
 print(f"Quocient: {quocient}")
-print(f"Residu:{residu}")
+print(f"Residu: {residu}")
